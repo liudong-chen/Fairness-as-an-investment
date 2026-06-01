@@ -1,3 +1,5 @@
+This is to support paper "Fairness as an Investment: Dynamic Participation and Long-Run Profit in Virtual Power Plants"
+
 # Code and Data
 
 This folder contains the data and code needed to reproduce the figures of the
